@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <pAny person who, with intent to defraud any person, falsely represents himself to be some other person, living or dead, is guilty of a felony and is liable to imprisonment for three years,Any government fradulent act from anyo or stealing or getting loan from the government will result to a 6years in prison.</p>
           </div>
         `
         break
