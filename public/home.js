@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Any person who with intent to defraud any person falsely represents himself to be some other person, living or dead, is guilty of a felony and is liable to imprisonment for three years Any government fraudulent act from anyone or stealing or getting loan from the government will result to a 6years in prison.</p>
+            <p>Any person who with intent to defraud any person falsely represents himself to be some other person, living or dead, is guilty of a felony and is liable to imprisonment for three years Any government fraudulent act from anyone or stealing or getting loan from the government will result to a 6years in prison! Take note that this conversation is being monitored by they CIA and its our duties to fight crime and impersonators. Kindly endeavor to report any criminal acts to us and we will attend to it with immediate effects.</p>
           </div>
         `
         break
